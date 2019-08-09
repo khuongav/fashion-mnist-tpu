@@ -2,7 +2,7 @@
 
 author: **Khuong Vo**  
 
-Building a convolutional neural network that learns to predict one of the 10 classes of the Fashion-MNIST dataset which comprises grayscale images of 10 different classes of clothes. https://www.tensorflow.org/tutorials/keras/basic_classification  
+Building a convolutional neural network that learns to predict one of the 10 classes of the Fashion-MNIST dataset which comprises grayscale images of 10 different classes of clothes.
 
 This notebook is based on the **fast.ai** course v1  
 
