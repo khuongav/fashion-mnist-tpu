@@ -15,7 +15,7 @@ Run on **TPUs** in **Google Colab**
   4. **Data augmentation**
   5. **Batchnorm + data augmentation**
   6. **Batchnorm + dropout + data augmentation**
-  7. **Octave Convolution + (6)** (No registered 'ResizeNearestNeighborGrad' error, currenly not supported on TPU)
+  7. **Octave Convolution + (6)** (No registered 'ResizeNearestNeighborGrad' error, https://github.com/tensorflow/tensorflow/issues/26214, while latest tensorflow verison - 1.14 does not support fit_generator)
   9. **Ensembling**
     
 **Each approach is run with different learning rates (.1, .01, .001, .0001)**
