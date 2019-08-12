@@ -1,6 +1,4 @@
-# FashionMNIST_Ensembling_OctaveCNN-TPU  
-
-author: **Khuong Vo**  
+# Fashion MNIST on TPU  
 
 Building a convolutional neural network that learns to predict one of the 10 classes of the Fashion-MNIST dataset which comprises grayscale images of 10 different classes of clothes.
 
